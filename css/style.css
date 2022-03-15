@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background-color: #196F3D   ;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+}
+
+.quem-e-cthulhu{
+    background-color:black;
+    color: white;
+}
+
+.localizacao{
+    background-color:#16405c;
+    color: white;
+}
+
+.titulos{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.rounded-circle{
+    padding-bottom: 20px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
